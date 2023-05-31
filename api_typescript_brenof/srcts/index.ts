@@ -13,4 +13,5 @@ app.use(Rotas);
 app.listen(3000, () => {
 console.log('*** API INICIADA NA PORTA 3000***');
 console.log('*** PRESSIONE CTRL+C PARA FINALIZAR ***');
+
 });
